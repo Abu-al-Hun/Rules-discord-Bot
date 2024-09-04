@@ -33,6 +33,9 @@ function printFilesRecursively(directory, indent = '') {
         if (file === 'node_modules') {
             return;
         }
+        if (file === '.npm') {
+            return;
+        }
 
         const fileExtension = path.extname(file).slice(1);
         const icon = stats.isDirectory() ? fileIcons['default'] : fileIcons[fileExtension] || fileIcons['default'];
