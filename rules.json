@@ -1,0 +1,29 @@
+{
+  "rules": [
+    {
+      "name": "name",
+      "roleId": "12345678910",
+      "file": "rules1.txt"
+    },
+    {
+      "name": "name",
+      "roleId": "12345678910",
+      "file": "rules2.txt"
+    },
+    {
+      "name": "name",
+      "roleId": "12345678910",
+      "file": "rules3.txt"
+    },
+    {
+      "name": "name",
+      "roleId": "12345678910",
+      "file": "rules4.txt"
+    },
+    {
+      "name": "name",
+      "roleId": "12345678910",
+      "file": "rules5.txt"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "token": "Bot_Token",
+  "guildId": "Server_ID",
+  "clientId": "Bot_ID",
+  "serverOwnerId": "Officer_Rank_ID",
+  "imageUrl": "Image_link"
+}
