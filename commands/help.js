@@ -1,6 +1,6 @@
 const { SlashCommandBuilder, EmbedBuilder, ActionRowBuilder, ButtonBuilder, ButtonStyle } = require('discord.js');
 
-const supportServerInvite = 'https://discord.gg/wicks';
+const supportServerInvite = 'https://discord.gg/YhkyGV4Qd7';
 
 module.exports = {
     data: new SlashCommandBuilder()
