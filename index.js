@@ -77,7 +77,7 @@ async function registerCommands() {
 client.once(Events.ClientReady, async () => {
     try {
         const asciiArtText = await new Promise((resolve, reject) => {
-            figlet.text('Wick Studio', (err, data) => {
+            figlet.text('Skode Studio', (err, data) => {
                 if (err) reject(err);
                 resolve(data);
             });
